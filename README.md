@@ -1,6 +1,6 @@
 <div align ="center">
   <br />
-    <a href="https://myphone-nine.vercel.app/
+    <a href="https://explore-taste.vercel.app/
 " target="_blank">
       <img src="public/scr/img/food.png" alt="Project Banner" />"
     </a>
