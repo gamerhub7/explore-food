@@ -2,7 +2,7 @@
   <br />
     <a href="https://myphone-nine.vercel.app/
 " target="_blank">
-      <img src="public/scr/img/food.png" alt="Project Banner" />" alt="Project Banner">
+      <img src="public/scr/img/food.png" alt="Project Banner" />"
     </a>
   <br />
 
