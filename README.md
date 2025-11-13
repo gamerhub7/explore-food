@@ -6,7 +6,7 @@ Discover food, categories & cuisines with a clean, modern UI built on Next.js 13
 <div align ="center">
   <br />
     <a href="https://explore-taste.vercel.app/
-" target="_blank">
+  target="_blank">
       <img src="public/scr/img/food.png" alt="Project Banner" />"
     </a>
   <br />
